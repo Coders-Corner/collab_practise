@@ -3,8 +3,8 @@
 	pixelarity.com | hello@pixelarity.com
 	License: pixelarity.com/license
 */
-
 (function($) {
+  $header.css('display', 'none');
 
 	var	$window = $(window),
 		$body = $('body'),
